@@ -18,4 +18,5 @@
 1. У python добавлена определенная версия
 2. RUN теперь будет сразу загружать все библиотеки из файла requirements.txt
 3. CMD был заменен на ENTRYPOINT
+
 ![rec](./img/requirements.jpg)
