@@ -10,7 +10,7 @@
 |   C    |luckyapin|192.168.195.19|
 
 ## Подключение компьютера A к компьютеру B при помощи SSH
-![SSH](/upload/firmenniy-stil/footer-logo-svg.svg "Наш логотип") Картинка
+![SSH](/DevOps/Lab1/img/ssh.png "SSH")
 
 ## Вывод ##
 ![Лого TexTerra](/upload/firmenniy-stil/footer-logo-svg.svg "Наш логотип") Картинка
