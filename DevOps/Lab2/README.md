@@ -27,4 +27,4 @@
 ![code](./img/code.jpg)
 
 ### Результат запуска docker
-![code](./img/res.jpg)
+![res](./img/res.jpg)
