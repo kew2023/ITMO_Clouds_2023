@@ -9,6 +9,8 @@
 |   B    |koh0|192.168.195.87|
 |   C    |luckyapin|192.168.195.19|
 
+## Подключение компьютера A к компьютеру B при помощи SSH
+![SSH](/upload/firmenniy-stil/footer-logo-svg.svg "Наш логотип") Картинка
 
 ## Вывод ##
 ![Лого TexTerra](/upload/firmenniy-stil/footer-logo-svg.svg "Наш логотип") Картинка
