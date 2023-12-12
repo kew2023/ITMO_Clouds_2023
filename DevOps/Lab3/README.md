@@ -6,7 +6,7 @@
 Для выполнения данной лабораторной работы был написан пройстейший docker файл, который запускает python программу.
 
 ### Docker файл
-![good_docker](./img/good_docker.jpg)
+![docker](./img/docker.jpg)
 
 ### Файл с библиотеками
 ![rec](./img/requirements.jpg)
