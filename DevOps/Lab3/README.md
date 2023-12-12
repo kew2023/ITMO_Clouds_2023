@@ -13,6 +13,8 @@
 ### Код python программы
 ![code](./img/code.jpg)
 
+## Основная часть
+
 Далее создадим [репозиторий на github](https://github.com/MartinAbdrakhmanov/cloudslab3) и создадим файл **docker-image.yml**, содержащий инструкции для **github actions**.
 ![yml](./img/yml.png)
 
@@ -25,6 +27,7 @@
 Запустим контейнер и увидим, что контейнер был успешно запушен
 ![startcont](./img/startcont.png)
 
+### Автоматическое обновление после изменений
 Немного изменим код в python-файле и запушим его на **github**. (Изменения видны на скриншоте)
 ![changecode](./img/changecode.png)
 
@@ -32,6 +35,8 @@
 ![autopush](./img/autopush.png)
 
 И наблюдаем за успешно успешно запущенным ***измененным*** докером.
+![newcont](./img/newcont.png)
+
 
 
 
