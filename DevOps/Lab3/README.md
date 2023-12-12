@@ -13,4 +13,6 @@
 ### Код python программы
 ![code](./img/code.jpg)
 
-Далее создадим [репозиторий на github](https://github.com/MartinAbdrakhmanov/cloudslab3)
+Далее создадим [репозиторий на github](https://github.com/MartinAbdrakhmanov/cloudslab3) и создадим файл **docker-image.yml**, содержащий инструкции для **github actions**.
+
+![yml](./img/yml.png)
