@@ -14,5 +14,24 @@
 ![code](./img/code.jpg)
 
 Далее создадим [репозиторий на github](https://github.com/MartinAbdrakhmanov/cloudslab3) и создадим файл **docker-image.yml**, содержащий инструкции для **github actions**.
-
 ![yml](./img/yml.png)
+
+Запушем с помощью **github actions** файл в репозиторий в **dockerhub**.
+![pushyml](./img/pushyml.png)
+
+Заметим, что файл успешно запушился в **dockerhub**
+![dockerhub](./img/dockerhub.png)
+
+Запустим контейнер и увидим, что контейнер был успешно запушен
+![startcont](./img/startcont.png)
+
+Немного изменим код в python-файле и запушим его на **github**. (Изменения видны на скриншоте)
+![changecode](./img/changecode.png)
+
+Заметим, что **github actions** автоматически запушили изменения на **dockerhub**.
+![autopush](./img/autopush.png)
+
+И наблюдаем за успешно успешно запущенным ***измененным*** докером.
+
+
+
