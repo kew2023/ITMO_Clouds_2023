@@ -12,3 +12,5 @@
 ![rec](./img/requirements.jpg)
 ### Код python программы
 ![code](./img/code.jpg)
+
+Далее создадим [репозиторий на github](https://github.com/MartinAbdrakhmanov/cloudslab3)
